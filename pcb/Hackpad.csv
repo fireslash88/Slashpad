@@ -1,0 +1,6 @@
+"Reference","Qty","Value","DNP","Exclude from BOM","Exclude from Board","Footprint","Datasheet"
+"D1,D2,D3,D4,D5,D6","6","1N4148","","","","Diode_THT:D_DO-35_SOD27_P7.62mm_Horizontal","https://assets.nexperia.com/documents/data-sheet/1N4148_1N4448.pdf"
+"J1","1","OLED_DISPLAY","","","","3DModelLibrary:SSD1306-0.91-OLED-4pin-128x32",""
+"SW1,SW2,SW3,SW4,SW5,SW6","6","SW_Push","","","","3DModelLibrary:SW_Cherry_MX_1.00u_PCB",""
+"SW7","1","RotaryEncoder_Switch","","","","3DModelLibrary:RotaryEncoder_Alps_EC11E-Switch_Vertical_H20mm",""
+"U1","1","MOUDLE-SEEEDUINO-XIAO","","","","3DModelLibrary:XIAO-Generic-Hybrid-14P-2.54-21X17.8MM",""
