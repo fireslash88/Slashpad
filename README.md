@@ -19,8 +19,8 @@ I have another username that I actually use more than this one but I prefer to u
 - 6x Keycaps
 - 1x EC11 Rotary Encoder
 - 1x 0.91 inch OLED display
-- 6x through-hole 1N4148 Diodes
-- Xx M3x16mm screws
+- 7x through-hole 1N4148 Diodes
+- 4x M3x16mm screws
 - 1x 3D Printed Case
 ---
 ### PCB
