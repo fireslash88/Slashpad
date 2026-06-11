@@ -524,7 +524,7 @@
     "last_paths": {
       "idf": "",
       "netlist": "",
-      "plot": "",
+      "plot": "../production/gerbers/",
       "specctra_dsn": "",
       "vrml": ""
     },
@@ -672,7 +672,7 @@
         "uuid": "97821f02-2af7-4d86-ac74-6eab137ad731"
       }
     ],
-    "used_designators": "",
+    "used_designators": "D7",
     "variants": []
   },
   "sheets": [

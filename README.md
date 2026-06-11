@@ -4,6 +4,8 @@ This is my submission for the Hackpad challenge!
 
 Slashpad is a 6 key macropad with a Rotary Encoder and OLED Display, and uses the QMK Firmware! [TODO]
 
+![image](assets/Case.jpg)
+
 --- 
 ### Inspiration for the name of the pad
 
@@ -31,5 +33,22 @@ This is the PCB!
 ![image](assets/PCB.png)
 
 ---
+### Case
+This is the case I modeled in Fusion 360!
+![image](assets/Case3D.png)
+
+---
+### Firmware
+
+The Slashpad uses the QMK firmware for everything!
+(Will include VIA in the future) 
+
+---
+### Thanks!
+
+A great thanks to Hack Club to have made this project possible!
+
+---
+
 ### Cats
 Yes. I love cats so I decided to put some silly cats I found on Pinterest on the PCB. They're pretty and I love them so uhh... Yeah... Cats.. Meow..
