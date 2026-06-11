@@ -2,7 +2,7 @@
 
 This is my submission for the Hackpad challenge!
 
-Slashpad is a 6 key macropad with a Rotary Encoder and OLED Display, and uses the QMK Firmware! [TODO]
+Slashpad is a 6 key macropad with a Rotary Encoder and OLED Display, and uses the QMK Firmware!
 
 ![image](assets/Case.jpg)
 
